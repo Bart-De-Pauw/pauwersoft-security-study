@@ -1,5 +1,5 @@
 # pauwersoft-security-study
 learn github security features
 
-## codeowners 
+## Code Owners 
 Code Owners must review PR's.
